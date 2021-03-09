@@ -9,11 +9,7 @@
         "quotemark": [true, "single"],
         "trailing-comma": [true, {
             "multiline": "never",
-            "singleline": "never",
-            "arrays": "never",
-            "objects": "never",
-            "functions": "never",
-            "typeLiterals": "never"
+            "singleline": "never"
         }],
         "ordered-imports": [
             false
