@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rars/ng2csv"
+    "url": "https://github.com/vsiestov/ng2csv"
   },
   "keywords": [
     "Angular2",
@@ -25,9 +25,9 @@
   "author": "Richard Russell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rars/ng2csv/issues"
+    "url": "https://github.com/vsiestov/ng2csv/issues"
   },
-  "homepage": "https://github.com/rars/ng2csv#readme",
+  "homepage": "https://github.com/vsiestov/ng2csv#readme",
   "peerDependencies": {
     "file-saver": "^1.3.3"
   },
